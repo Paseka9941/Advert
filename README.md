@@ -1,3 +1,3 @@
 Production
 # advert
-The problem my code is about advertising  two types of properties which are business property and residence property. My code shows the difference between the two properties with regards to equipments availaible to those properties, and it also displays  the difference of calculating monthly rents of the two properties. 
+my code is about a publishing organization which publishes adverts for specific companies. It calculates the amount of money due for each advert per placement. It also provides a code for each enquiry of an advert  
