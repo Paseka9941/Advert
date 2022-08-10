@@ -48,7 +48,7 @@ public class resProperty extends Property
     }
     public char setType(char type)
     {
-         type = tyoe;
+         type = type;
     }
     public int setBathrooms(int bathr)
     {
