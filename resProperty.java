@@ -44,15 +44,15 @@ public class resProperty extends Property
     
     public int setBedRooms(int bedr)
     {
-         bedroom = bedr;
+         bedrooms = bedr;
     }
     public char setType(char type)
     {
          type = tyoe;
     }
-    public int setBathroom(int bathr)
+    public int setBathrooms(int bathr)
     {
-         bathroom = bathr;
+         bathrooms = bathr;
     }
    
   
