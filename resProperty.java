@@ -39,6 +39,21 @@ public class resProperty extends Property
     {
         return bathrooms;
     }
+    
+    //set methods to limit direct access to the variables from the input side
+    
+    public int setBedRooms(int bedr)
+    {
+         bedrooms = bedr;
+    }
+    public char setType(char type)
+    {
+         type = type;
+    }
+    public int setBathrooms(int bathr)
+    {
+         bathrooms = bathr;
+    }
    
   
    
